@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+	
+    font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	color: #6c7279;
+	}
+	
+	*,
+	*:before,
+	*:after {
+	box-sizing: border-box;
+	}
+	
+
+	/* Container 
+	====================*/
+	.container {
+	    width: 100%;
+		max-width: 1170px;
+		margin: 0 auto;
+	}
+	
+	/* Header 
+	====================*/
+	
+	.header {
+	
+	}
